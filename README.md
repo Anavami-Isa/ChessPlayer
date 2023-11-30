@@ -5,6 +5,6 @@ Python project where I try to use Hugging Face's automatic voice recognition mod
 Status on completion of project: [Status Page](https://github.com/Anavami-Isa/ChessPlayer/blob/main/Status.md)
 
 
-Explanation of Speech recognition to chess move: [Phoneme explanation](https://github.com/Anavami-Isa/ChessPlayer/blob/master/Phoneme.txt)
+Explanation of Speech recognition to chess move: [Phoneme explanation](https://github.com/Anavami-Isa/ChessPlayer/blob/master/Phoneme.md)
 
 (Pawn promotion currently not supported)
